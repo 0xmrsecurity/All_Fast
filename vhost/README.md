@@ -1,7 +1,7 @@
 # Usage
 This is bash script that call the ffuf to enumerate the subdomains.
 
-## Why is here
+## Why this here
 I always mixed up the syntax of ffuf. Here is simple one.
 
 ```bash
