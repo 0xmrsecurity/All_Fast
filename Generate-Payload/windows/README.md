@@ -1,4 +1,4 @@
-# Slot  Tool
+# Sl0t  Tool
 This tool help you to get the Shell in windows environment.
 
 ## Feature's
