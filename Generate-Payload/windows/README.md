@@ -1,5 +1,5 @@
-# Slot 
-This tool help you to get the revers shell in the windows environment.
+# Slot  Tool
+This tool help you to get the Shell in windows environment.
 
 ## Feature's
 - AMSI Bypass
