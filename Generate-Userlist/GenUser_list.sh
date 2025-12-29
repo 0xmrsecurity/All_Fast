@@ -95,5 +95,6 @@ echo "Total variations: $total_variations" > total_var_user.lst
 # ================= Kerbrute Hint =================
 echo -e "\n${GREEN}[*] You can run the following command for further processing:${NC}\n"
 echo -e "${YELLOW}for i in users/var_user*.lst; do kerbrute userenum -d DOMAIN.LOCAL --dc 10.10.10.10 \"\$i\"; sleep 3; done | grep -i \"VALID USERNAME\"${NC}"
-
+echo -e " "
+echo -e "[*] Your output file saved in users directory.."
 echo -e "\n${GREEN}[*] Finished.${NC}"
